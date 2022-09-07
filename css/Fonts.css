@@ -1,0 +1,21 @@
+/* start Variables */
+
+/* End Variables*/
+/* Start Global Rules */
+*{
+ -webkit-box-sizing:border-box;
+ -moz-box-sizing:border-box;
+ box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+/* End Global Rules*/
+.parent{
+    background-color: #f96f5d;
+}
+.container{
+    width: 600px;
+    margin: auto:
+}
